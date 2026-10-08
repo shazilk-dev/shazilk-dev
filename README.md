@@ -2,7 +2,7 @@
 
 # Shazil Khan
 
-**CS Student | Junior Web Developer**
+**CS Student | Full Stack Developer**
 
 I'm a Computer Science student building web applications through a combination of foundational skills and modern AI-assisted development. Currently strengthening my independent full-stack capabilities through focused hands-on practice.
 
